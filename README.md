@@ -24,17 +24,14 @@ padronizada (horário).
     src="https://user-images.githubusercontent.com/40877357/89717590-60bffe00-d98e-11ea-9991-66100e5e30e9.png" 
     width="23%"
   />
-
   <img 
     src="https://user-images.githubusercontent.com/40877357/89717791-35d6a980-d990-11ea-8996-04516190a838.png" 
     width="23%"
   />
-
   <img 
     src="https://user-images.githubusercontent.com/40877357/89717815-5868c280-d990-11ea-971a-4c2d91247224.png" 
     width="23%"
   />
-
   <img 
     src="https://user-images.githubusercontent.com/40877357/89717827-73d3cd80-d990-11ea-8f16-d524cdffefdf.png" 
     width="23%"
