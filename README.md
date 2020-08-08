@@ -19,7 +19,7 @@ Foram utilizadas as seguintes tecnologias:
 Além do que foi passado durante este incrível evento, realizei algo que estava considerando crucial para uma boa experiência do usuário. Utilizando as bibliotecas do 
 React Native, alterei os botões do filtro de professor, que antes eram apenas campos de texto e agora são campos de escolha (matéria e dia da semana) e definição 
 padronizada (horário).
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between">
   <img 
     src="https://user-images.githubusercontent.com/40877357/89717590-60bffe00-d98e-11ea-9991-66100e5e30e9.png" 
     width="23%"
